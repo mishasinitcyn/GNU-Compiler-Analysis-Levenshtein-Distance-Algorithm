@@ -1,6 +1,8 @@
 # GNU Compiler Optimization Analysis: Levenshtein Distance Algorithm
 
-This repository contains an analysis of GNU compiler optimizations on the Levenshtein Distance algorithm, demonstrating significant performance improvements between optimization levels O0 and O1.
+This repository analyzes the GNU compiler optimizations on the Levenshtein Distance algorithm, demonstrating performance improvements between optimization levels O0 and O1.
+
+Full methodology and detailed findings available in [`report.pdf`](report.pdf).
 
 ## Key Findings
 
